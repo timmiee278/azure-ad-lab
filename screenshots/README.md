@@ -1,1 +1,7 @@
-This folder will contain screenshots of Azure VM, Active Directory, GPO, and RDP configuration.
+## Evidence / Screenshots
+See `/screenshots` folder for:
+- VM setup
+- Active Directory users
+- Group Policy configuration
+- RDP login
+- gpresult output
